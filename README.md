@@ -2,7 +2,7 @@
 # Hi, I'm Mahesh Rao 👋
 
 🎓 B.Tech Data Science @ Amrita Sai Institute '27 | CGPA: 8.29  
-📍 Hyderabad, India | 📧 maheshrao5885@gmail.com  
+📍 Vijayawada, India | 📧 maheshrao5885@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/kota-mahesh-rao)
 
 ---
